@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Estevão 👋
 
-<!--
-**estevaosanjo/estevaosanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Tecnologias em estudo
+- Python
+- JavaScript
+- HTML
+- C/C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+🔹 Calculadora em C  
+Projeto para prática de lógica de programação e estrutura de funções.
+
+🔹 Jogo Web - Ping-pong 
+Projeto simples utilizando HTML, CSS e JavaScript.
+
+## Objetivo
+Busco oportunidade de estágio em desenvolvimento de software para aplicar e expandir meus conhecimentos.
+
+## Contato
+LinkedIn: https://www.linkedin.com/in/estevao-anjo
